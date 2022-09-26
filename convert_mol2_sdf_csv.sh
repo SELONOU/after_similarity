@@ -1,5 +1,4 @@
 while IFS=" " read -r mol;
 do 
-obabel "$mol".sdf -O "$mol".smi
-cat "$mol".smi >> output.csv
-done  < file
+obabel "$mol".mol2 -O "$mol".sdf
+done  < listout
