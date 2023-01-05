@@ -1,0 +1,40 @@
+Evista ,[H+].[Cl-].Oc1ccc(cc1)c2sc3cc(O)ccc3c2C(=O)c4ccc(OCCN5CCCCC5)cc4 
+Raloxifene Hydrochloride ,[H+].[Cl-].Oc1ccc(cc1)c2sc3cc(O)ccc3c2C(=O)c4ccc(OCCN5CCCCC5)cc4 
+Abraxane ,CC(=O)O[C@H]1C(=O)[C@]2(C)[C@@H](O)C[C@H]3OC[C@@]3(OC(C)=O)[C@H]2[C@H](OC(=O)c4ccccc4)[C@]5(O)C[C@H](OC(=O)[C@H](O)[C@@H](NC(=O)c6ccccc6)c7ccccc7)C(=C1C5(C)C)C 
+Arimidex ,CC(C)(C#N)c1cc(Cn2cncn2)cc(c1)C(C)(C)C#N 
+Aromasin ,C[C@]12CC[C@H]3[C@@H](CC(=C)C4=CC(=O)C=C[C@]34C)[C@@H]1CCC2=O 
+Capecitabine ,CCCCCOC(=O)NC1=NC(=O)N(C=C1F)[C@@H]2O[C@H](C)[C@@H](O)[C@H]2O 
+Cyclophosphamide ,ClCCN(CCCl)[P]1(=O)NCCCO1 
+Docetaxel ,CC(=O)O[C@@]12CO[C@@H]1C[C@H](O)[C@]3(C)[C@@H]2[C@H](OC(=O)c4ccccc4)[C@]5(O)C[C@H](OC(=O)[C@H](O)[C@@H](NC(=O)OC(C)(C)C)c6ccccc6)C(=C([C@@H](O)C3=O)C5(C)C)C 
+Doxorubicin Hydrochloride ,[Cl-].COc1cccc2C(=O)c3c(O)c4C[C@](O)(C[C@H](OC5CC(N)C(O)C(C)O5)c4c(O)c3C(=O)c12)C(=O)CO.[H+] 
+Ellence ,[Cl-].COc1cccc2C(=O)c3c(O)c4C[C@](O)(C[C@H](O[C@H]5C[C@H](N)[C@@H](O)[C@H](C)O5)c4c(O)c3C(=O)c12)C(=O)CO.[H+] 
+Epirubicin Hydrochloride ,[Cl-].COc1cccc2C(=O)c3c(O)c4C[C@](O)(C[C@H](O[C@H]5C[C@H](N)[C@@H](O)[C@H](C)O5)c4c(O)c3C(=O)c12)C(=O)CO.[H+] 
+Everolimus ,CO[C@@H]1C[C@@H](CC[C@H]1OCCO)C[C@@H](C)[C@@H]2CC(=O)[C@H](C)\C=C(C) 
+Exemestane ,C[C@]12CC[C@H]3[C@@H](CC(=C)C4=CC(=O)C=C[C@]34C)[C@@H]1CCC2=O 
+5-FU ,FC1=CNC(=O)NC1=O 
+Fareston ,CN(C)CCOc1ccc(cc1)\C(=C(\CCCl)c2ccccc2)c3ccccc3.OC(=O)CC(O)(CC(O)=O)C(O)=O 
+Faslodex ,C[C@]12CC[C@H]3[C@@H]([C@H](CCCCCCCCC[S](=O)CCCC(F)(F)C(F)(F)F)Cc4cc(O)ccc34)[C@@H]1CC[C@@H]2O 
+Femara ,N#Cc1ccc(cc1)C(n2cncn2)c3ccc(cc3)C#N 
+Fulvestrant ,C[C@]12CC[C@H]3[C@@H]([C@H](CCCCCCCCC[S](=O)CCCC(F)(F)C(F)(F)F)Cc4cc(O)ccc34)[C@@H]1CC[C@@H]2O 
+Gemcitabine Hydrochloride ,[Cl-].NC1=NC(=O)N(C=C1)[C@@H]2O[C@H](CO)[C@@H](O)C2(F)F.[H+] 
+Gemzar ,[Cl-].NC1=NC(=O)N(C=C1)[C@@H]2O[C@H](CO)[C@@H](O)C2(F)F.[H+] 
+Goserelin Acetate ,CC(C)CC(NC(=O)C(COC(C)(C)C)NC(=O)C(Cc1ccc(O)cc1)NC(=O)C(CO)NC(=O)C(Cc2c[nH]c3ccccc23)NC(=O)C(Cc4[nH]cnc4)NC(=O)C5CCC(=O)N5)C(=O)NC(CCCN=C(N)N)C(=O)N6CCCC6C(=O)NNC(N)=O.CC(O)=O 
+Ixabepilone ,C[C@H]1CCC[C@@]2(C)O[C@H]2C[C@H](NC(=O)C[C@H](O)C(C)(C)C(=O)[C@H](C)[C@H]1O) 
+Lapatinib Ditosylate ,O.Cc1ccc(cc1)[S](O)(=O)=O.Cc2ccc(cc2)[S](O)(=O)=O.C[S](=O)(=O)CCNCc3oc(cc3)c4ccc5ncnc(Nc6ccc(OCc7cccc(F)c7)c(Cl)c6)c5c4 
+Letrozole ,N#Cc1ccc(cc1)C(n2cncn2)c3ccc(cc3)C#N 
+Megestrol Acetate ,CC(=O)O[C@@]1(CC[C@H]2[C@@H]3C=C(C)C4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C)C(C)=O 
+Methotrexate Sodium ,[Na+].CN(Cc1cnc2nc(N)nc(N)c2n1)c3ccc(cc3)C(=O)NC(CCC([O-])=O)C(O)=O 
+Paclitaxel ,CC(=O)O[C@H]1C(=O)[C@]2(C)[C@@H](O)C[C@H]3OC[C@@]3(OC(C)=O)C2[C@H](OC(=O)c4ccccc4)[C@]5(O)C[C@H](OC(=O)[C@H](O)[C@@H](NC(=O)c6ccccc6)c7ccccc7)C(=C1C5(C)C)C 
+Pamidronate Disodium ,O.O.O.O.O.[Na+].[Na+].NCCC(O)([P](O)([O-])=O)[P](O)([O-])=O 
+Taxotere ,O.O.O.CC(=O)O[C@@]12CO[C@@H]1C[C@H](O)[C@]3(C)[C@@H]2[C@H](OC(=O)c4ccccc4)[C@]5(O)C[C@H](OC(=O)[C@H](O)[C@@H](NC(=O)OC(C)(C)C)c6ccccc6)C(=C([C@@H](O)C3=O)C5(C)C)C 
+Thiotepa ,S=[P](N1CC1)(N2CC2)N3CC3 
+Toremifene ,CN(C)CCOc1ccc(cc1)\C(=C(\CCCl)c2ccccc2)c3ccccc3 
+Trexall ,[Na+].CN(Cc1cnc2nc(N)nc(N)c2n1)c3ccc(cc3)C(=O)N[C@@H](CCC([O-])=O)C(O)=O 
+Tykerb ,O.Cc1ccc(cc1)[S](O)(=O)=O.Cc2ccc(cc2)[S](O)(=O)=O.C[S](=O)(=O)CCNCc3oc(cc3)c4ccc5ncnc(Nc6ccc(OCc7cccc(F)c7)c(Cl)c6)c5c4 
+Vinblastine Sulfate ,CC[C@]1(O)C[C@H]2CN(CCc3c([nH]c4ccccc34)[C@@](C2)(C(=O)OC)c5cc6c(cc5OC)N(C)[C@H]7[C@](O)([C@H](OC(C)=O)[C@]8(CC)C=CCN9CC[C@]67[C@H]89)C(=O)OC)C1.O[S](O)(=O)=O 
+Xeloda ,CCCCCOC(=O)NC1=NC(=O)N(C=C1F)[C@@H]2O[C@H](C)[C@@H](O)[C@H]2O 
+Zoladex ,CC(C)CC(NC(=O)C(COC(C)(C)C)NC(=O)C(Cc1ccc(O)cc1)NC(=O)C(CO)NC(=O)C(Cc2c[nH]c3ccccc23)NC(=O)C(Cc4[nH]cnc4)NC(=O)C5CCC(=O)N5)C(=O)NC(CCCN=C(N)N)C(=O)N6CCCC6C(=O)NNC(N)=O.CC(O)=O 
+CAF ,OC[C@@H](NC(=O)C(Cl)Cl)[C@H](O)c1ccc(cc1)[N+]([O-])=O 
+CMF ,OC(=O)c1ccc2c(c1)n(CC(=O)N3CCOCC3)c(c4ccccc4)c2C5CCCCC5 
+FEC ,[Fe++].Cc1c2[n-]c(cc3nc(cc4[n-]c(cc5nc(c2)c(C)c5CCC(O)=O)c(C)c4CCC(O)=O)c(C)c3CCC(O)=O)c1CCC(O)=O 
+TAC ,CN(C)C1[C@@H]2C[C@H]3C(=C(O)c4c(O)cccc4[C@@]3(C)O)C(=O)[C@]2(O)C(=O)\C(=C(N)\O)C1=O 
